@@ -1,6 +1,6 @@
-# Functional and Aesthetically Pleasing Website for Restaurants
+# 🍽 Functional and Aesthetically Pleasing Website for Restaurants 🌐
 
-This is my Final Project for the course of Web Engineering.
+🎓 This is my Final Project for the course of Web Engineering.
 
 ## Overview
 
@@ -17,7 +17,6 @@ The website is developed using a combination of HTML, CSS, JavaScript, PHP, and 
 - **Enhanced Online Presence:** The primary goal is to empower restaurants with a dynamic online presence, offering enhanced visibility and accessibility to potential customers.
 
 - **Operational Efficiency:** The project seeks to optimize operational efficiency by implementing a streamlined order management system through an intuitive admin panel.
-
 
 ## Technology Stack
 
@@ -37,4 +36,4 @@ To set up the development environment, follow these steps:
 
 ## Conclusion
 
-This project, serving as the final project for the Web Engineering course, aims to deliver a comprehensive and efficient web solution for the restaurant industry, addressing both user experience and operational needs. The utilization of modern web technologies ensures a robust and scalable platform. Feel free to explore the code, review the project outcomes, and contribute to its continuous improvement.
+This project, serving as the final project for the Web Engineering course, aims to deliver a comprehensive and efficient web solution for the restaurant industry, addressing both user experience and operational needs. The utilization of modern web technologies ensures a robust and scalable platform. Feel free to explore the code, review the project outcomes, and contribute to its continuous improvement. 🚀
