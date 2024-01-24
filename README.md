@@ -1,6 +1,6 @@
 # Functional and Aesthetically Pleasing Website for Restaurants
 
-##This is my Final Project for the course of Web Engineering.
+This is my Final Project for the course of Web Engineering.
 
 ## Overview
 
